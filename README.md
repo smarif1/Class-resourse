@@ -7,4 +7,4 @@
 ## Useful Links
 - [Course website]
 - [Library resources]
-##Form study groups with classmates
+- ##Form study groups with classmates
